@@ -6,8 +6,6 @@ A brief description of what this project does and who it's for
 
 # Sales-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
-
 ## Problem Statement
 
 This dashboard helps the business owners understand their Sales better.This dashboard provides valuable insights into key sales metrics, helping you make informed business decisions. 
